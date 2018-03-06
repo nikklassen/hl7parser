@@ -1,14 +1,14 @@
 {
-  "name": "hl7parser",
+  "name": "@nikklassen/hl7parser",
   "description": "HL7 2.x parser and generator.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
-    "name": "Artifact Health, LLC",
-    "url": "http://www.artifacthealth.com"
+    "name": "Nik Klassen",
+    "url": "https://github.com/nikklassen"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/artifacthealth/hl7parser.git"
+    "url": "https://github.com/nikklassen/hl7parser.git"
   },
   "licenses": [
     {

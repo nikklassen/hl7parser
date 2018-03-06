@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/artifacthealth/hl7parser.svg?branch=master)](https://travis-ci.org/artifacthealth/hl7parser)
 
+Forked from [hl7parser](https://github.com/artifacthealth/hl7parser)
+
 # HL7Parser
 
 HL7Parser is a CommonJS module for working with [HL7 2.x](https://en.wikipedia.org/wiki/Health_Level_7) messages.
